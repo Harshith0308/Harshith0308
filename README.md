@@ -1,7 +1,6 @@
 # Gottipati Harshith Sai
 
-CSE (Cloud Computing) undergraduate. I build full-stack, machine learning, and cloud projects end to end, from the data layer to the UI, and I write all of my own code.
-
+CSE (Cloud Computing) undergraduate. I build full-stack, machine learning, and cloud projects end to end, from the data layer to the UI
 Currently open to software engineering internships and new-grad roles.
 
 ## Featured projects
