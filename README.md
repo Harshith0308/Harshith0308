@@ -6,15 +6,15 @@ I build machine learning, cloud, and full-stack systems end to end, from the dat
 
 ## Featured projects
 
-**[phishing-detection-ml](https://github.com/Harshith0308/phishing-detection-ml):** Phishing-URL detector comparing four ML models (Random Forest best at **96.6% accuracy**) with GridSearchCV tuning and SHAP-based explainability, served through a Python web app. Python, scikit-learn.
+**[parallel-aco-pathfinding](https://github.com/Harshith0308/parallel-aco-pathfinding):** Parallelized Ant Colony Optimization pathfinder with a live web visualizer. Python (multiprocessing), C/OpenMP.
 
-**[fintech-dynamic-scaling-broker](https://github.com/Harshith0308/fintech-dynamic-scaling-broker):** CloudSim broker scheduling 5,000 latency-sensitive trades across four data centers; a priority-aware, tiered-VM strategy cut average execution time by **~12.5%** (136s to 119s) while meeting every SLA. Java, CloudSim.
+**[phishing-detection-ml](https://github.com/Harshith0308/phishing-detection-ml):** Phishing-URL detector comparing four ML models (Random Forest best at **96.6% accuracy**) with GridSearchCV tuning and SHAP-based explainability, served through a Python web app. Python, scikit-learn.
 
 **[studysync](https://github.com/Harshith0308/studysync):** Full-stack collaborative study platform with real-time chat, shared notes, tasks, an admin panel, and an AI assistant. Node.js, Express, MongoDB, Socket.io.
 
 **[bankers-algorithm-simulator](https://github.com/Harshith0308/bankers-algorithm-simulator):** Interactive Banker's Algorithm simulator for deadlock avoidance, with a [live demo](https://harshith0308.github.io/bankers-algorithm-simulator/). Vanilla JavaScript.
 
-**[parallel-aco-pathfinding](https://github.com/Harshith0308/parallel-aco-pathfinding):** Parallelized Ant Colony Optimization pathfinder with a live web visualizer. Python (multiprocessing), C/OpenMP.
+**[fintech-dynamic-scaling-broker](https://github.com/Harshith0308/fintech-dynamic-scaling-broker):** CloudSim broker scheduling 5,000 latency-sensitive trades across four data centers; a priority-aware, tiered-VM strategy cut average execution time by **~12.5%** (136s to 119s) while meeting every SLA. Java, CloudSim.
 
 **[library-management-system](https://github.com/Harshith0308/library-management-system):** Full-stack library back-office on a 15+ table schema with circulation, fines, and reporting. PHP, MySQL.
 
