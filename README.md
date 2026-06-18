@@ -2,7 +2,7 @@
 
 ![Open to internships](https://img.shields.io/badge/Open%20to-Internships%20%26%20New--Grad-0D9488?style=flat-square) ![SRM University-AP](https://img.shields.io/badge/SRM%20University--AP-B.Tech%20CSE-134E4A?style=flat-square) ![India](https://img.shields.io/badge/Based%20in-India-475569?style=flat-square)
 
-I build machine learning, cloud, and full-stack systems end to end, from the data layer to the UI, and I write all of my own code. Final-year CSE (Cloud Computing) student, currently open to software engineering internships and new-grad roles.
+I build machine learning, cloud, and full-stack systems end to end, from the data layer to the UI. Final-year CSE (Cloud Computing) student, currently open to software engineering internships and new-grad roles.
 
 ## Featured projects
 
