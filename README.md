@@ -6,11 +6,13 @@ I build machine learning, cloud, and full-stack systems end to end, from the dat
 
 ## Featured projects
 
-**[parallel-aco-pathfinding](https://github.com/Harshith0308/parallel-aco-pathfinding):** Parallelized Ant Colony Optimization pathfinder with a live web visualizer. Python (multiprocessing), C/OpenMP.
+**[parallel-aco-pathfinding](https://github.com/Harshith0308/parallel-aco-pathfinding):** Parallelized Ant Colony Optimization pathfinder with a live web visualizer and a [convergence animation](https://github.com/Harshith0308/parallel-aco-pathfinding#watch-it-converge) from a real run. Python (multiprocessing), C/OpenMP.
 
-**[phishing-detection-ml](https://github.com/Harshith0308/phishing-detection-ml):** Phishing-URL detector comparing four ML models (Random Forest best at **96.6% accuracy**) with GridSearchCV tuning and SHAP-based explainability, served through a Python web app. Python, scikit-learn.
+**[phishing-detection-ml](https://github.com/Harshith0308/phishing-detection-ml):** Phishing-URL detector comparing four ML models (Random Forest best at **96.6% accuracy**) with GridSearchCV tuning and SHAP-based explainability, served through a Python web app — [**live demo**](https://harshith0308.github.io/phishing-detection-ml/) of the trained Random Forest running fully in-browser. Python, scikit-learn.
 
 **[studysync](https://github.com/Harshith0308/studysync):** Full-stack collaborative study platform with real-time chat, shared notes, tasks, an admin panel, and an AI assistant. Node.js, Express, MongoDB, Socket.io.
+
+**[codeplay](https://github.com/Harshith0308/codeplay):** Browser-based game-development platform: pick a JS game template, edit the code in-browser, run and save your own games — [**live demo**](https://harshith0308.github.io/codeplay/demo/) with playable templates. PHP, MySQL, Canvas.
 
 **[bankers-algorithm-simulator](https://github.com/Harshith0308/bankers-algorithm-simulator):** Interactive Banker's Algorithm simulator for deadlock avoidance, with a [live demo](https://harshith0308.github.io/bankers-algorithm-simulator/). Vanilla JavaScript.
 
